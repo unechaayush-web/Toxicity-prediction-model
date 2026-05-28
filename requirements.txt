@@ -1,0 +1,8 @@
+rdkit
+numpy
+pandas
+joblib
+scikit-learn
+imbalanced-learn
+
+do pip install -r requirements.txt
